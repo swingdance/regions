@@ -9,6 +9,7 @@ vi_VN,asia,Vietnam,越南
 zh_CN,asia,China,中国
 zh_HK,asia,Hong Kong,香港
 zh_TW,asia,Taiwan,台湾
+cs_CZ,europe,Czechia,捷克
 en_GB,europe,England,英国
 es_ES,europe,Spain,西班牙
 fi_FI,europe,Finland,芬兰
@@ -16,5 +17,4 @@ fr_FR,europe,France,法国
 pl_PL,europe,Poland,波兰
 ru_RU,europe,Russia,俄罗斯
 sv_SE,europe,Sweden,瑞典
-cs_CZ,europe,Czechia,捷克
 en_AU,oceania,Australia,澳大利亚
