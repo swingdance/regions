@@ -1,6 +1,6 @@
 key,pr,default,zh-Hans
 Illinois,1,Illinois,伊利诺伊州
 Texas,1,Texas,德克萨斯州
-Chicago,,Chicago,芝加哥
-Austin,,Austin,奥斯汀
-New York,,New York,纽约
+Austin,0,Austin,奥斯汀
+Chicago,0,Chicago,芝加哥
+New York,0,New York,纽约
