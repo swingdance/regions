@@ -35,13 +35,18 @@ elif [ "$ENTITY_TYPE" = "c" ] || [ "$ENTITY_TYPE" = "city" ]; then
       exit 1
     fi
     echo -e "Start reordering file: $FILE ($CSV_SORT_COLUMNS)"
-    csvsort -I --snifflimit 0 -d ',' -q '"' -c "$CSV_SORT_COLUMNS" "$FILE" > "$tmp" && mv "$tmp" "$FILE"
+    csv_query_statement="SELECT * FROM $REGION ORDER BY pr DESC, key ASC"
+    csvsql --snifflimit 0 -d ',' -q '"' -S -I --blanks --query "$csv_query_statement" "$FILE" > "$tmp" && mv "$tmp" "$FILE"
+    # csvsort -I --snifflimit 0 -d ',' -q '"' -c "$CSV_SORT_COLUMNS" "$FILE" > "$tmp" && mv "$tmp" "$FILE"
 
   else    
     echo -e "Start reordering files: /$FOLDER/*.csv ($CSV_SORT_COLUMNS)"
     while read -r csv_file; do
       echo "- $csv_file"
-      csvsort -I --snifflimit 0 -d ',' -q '"' -c "$CSV_SORT_COLUMNS" "$csv_file" > "$tmp" && mv "$tmp" "$csv_file"
+      table="$(basename "$csv_file" ".csv")"
+      csv_query_statement="SELECT * FROM $table ORDER BY pr DESC, key ASC"
+      csvsql --snifflimit 0 -d ',' -q '"' -S -I --blanks --query "$csv_query_statement" "$csv_file" > "$tmp" && mv "$tmp" "$csv_file"
+      # csvsort -I --snifflimit 0 -d ',' -q '"' -c "$CSV_SORT_COLUMNS" "$csv_file" > "$tmp" && mv "$tmp" "$csv_file"
     done < <(find "$FOLDER" -name "*.csv" -type f | sort)
   fi
 
