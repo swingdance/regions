@@ -1,36 +1,36 @@
 key,continent,default,zh-Hans
-en_CA,america,Canada,加拿大
-en_US,america,United States,美国
-es_CL,america,Chile,智利
-es_MX,america,Mexico,墨西哥
-hy_AM,asia,Armenia,亚美尼亚
-id_ID,asia,Indonesia,印尼
-ja_JP,asia,Japan,日本
-ko_KR,asia,South Korea,韩国
-th_TH,asia,Thailand,泰国
-tr_TR,asia,Turkey,土耳其
-vi_VN,asia,Vietnam,越南
-zh_CN,asia,China,中国
-zh_HK,asia,Hong Kong,香港
-zh_TW,asia,Taiwan,台湾
-cs_CZ,europe,Czechia,捷克
-da_DK,europe,Denmark,丹麦
-de_CH,europe,Switzerland,瑞士
-de_DE,europe,Germany,德国
-el_GR,europe,Greece,希腊
-en_GB,europe,United Kingdom,英国
-es_ES,europe,Spain,西班牙
-fi_FI,europe,Finland,芬兰
-fr_BE,europe,Belgium,比利时
-fr_FR,europe,France,法国
-hu_HU,europe,Hungary,匈牙利
-it_IT,europe,Italy,意大利
-lb_LU,europe,Luxembourg,卢森堡
-lt_LT,europe,Lithuania,立陶宛
-nb_NO,europe,Norway,挪威
-nl_NL,europe,Netherlands,荷兰
-pl_PL,europe,Poland,波兰
-ru_RU,europe,Russia,俄罗斯
-sl_SI,europe,Slovenia,斯洛文尼亚
-sv_SE,europe,Sweden,瑞典
-en_AU,oceania,Australia,澳大利亚
+ca,america,Canada,加拿大
+cl,america,Chile,智利
+mx,america,Mexico,墨西哥
+us,america,United States,美国
+am,asia,Armenia,亚美尼亚
+cn,asia,China,中国
+hk,asia,Hong Kong,香港
+id,asia,Indonesia,印尼
+jp,asia,Japan,日本
+kr,asia,South Korea,韩国
+th,asia,Thailand,泰国
+tr,asia,Turkey,土耳其
+tw,asia,Taiwan,台湾
+vn,asia,Vietnam,越南
+be,europe,Belgium,比利时
+ch,europe,Switzerland,瑞士
+cz,europe,Czechia,捷克
+de,europe,Germany,德国
+dk,europe,Denmark,丹麦
+es,europe,Spain,西班牙
+fi,europe,Finland,芬兰
+fr,europe,France,法国
+gr,europe,Greece,希腊
+hu,europe,Hungary,匈牙利
+it,europe,Italy,意大利
+lt,europe,Lithuania,立陶宛
+lu,europe,Luxembourg,卢森堡
+nl,europe,Netherlands,荷兰
+no,europe,Norway,挪威
+pl,europe,Poland,波兰
+ru,europe,Russia,俄罗斯
+se,europe,Sweden,瑞典
+si,europe,Slovenia,斯洛文尼亚
+uk,europe,United Kingdom,英国
+au,oceania,Australia,澳大利亚
