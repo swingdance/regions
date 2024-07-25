@@ -8,13 +8,14 @@ Missouri,1,Missouri,密苏里州
 Nebraska,1,Nebraska,内布拉斯加州
 New Hampshire,1,New Hampshire,新罕布什尔州
 New Mexico,1,New Mexico,新墨西哥州
-New York,1,New York,纽约
+New York,1,New York,纽约州
 North Carolina,1,North Carolina,北卡罗来纳州
 Ohio,1,Ohio,俄亥俄州
 Pennsylvania,1,Pennsylvania,宾夕法尼亚州
 Texas,1,Texas,德克萨斯州
 Washington,1,Washington,华盛顿
 Austin,0,Austin,奥斯汀
+Buffalo,0,Buffalo,水牛城
 Chicago,0,Chicago,芝加哥
 Cincinnati,0,Cincinnati,辛辛那提
 Denver,0,Denver,丹佛
@@ -23,6 +24,7 @@ Hebron,0,Hebron,希伯伦
 Los Angeles,0,Los Angeles,洛杉矶
 Mesa,0,Mesa,梅萨
 Minneapolis,0,Minneapolis,明尼阿波利斯
+New York,0,New York,纽约市
 Omaha,0,Omaha,奥马哈
 Philadelphia,0,Philadelphia,費城
 Rochester,0,Rochester,罗切斯特
