@@ -1,3 +1,3 @@
-key,pr,default,zh-Hans
-Athens,0,Athens,雅典
-Crete,0,Crete,克里特岛
+province,key,pr,default,zh-Hans
+Athens,Athens,0,Athens,雅典
+Crete,Crete,0,Crete,克里特岛

@@ -1,32 +1,32 @@
-key,pr,default,zh-Hans
-Baden-Wurttemberg,1,Baden-Wurttemberg,巴登-符腾堡州
-Bavaria,1,Bavaria,巴伐利亚自由州
-Gutersloh,1,Gutersloh,居特斯洛
-Lower Saxony,1,Lower Saxony,下萨克森州
-North Rhine-Westphalia,1,North Rhine-Westphalia,北莱茵-威斯特法伦州
-Saarland,1,Saarland,萨尔兰州
-Saxony-Anhalt,1,Saxony-Anhalt,萨克森-安哈尔特州
-Augsburg,0,Augsburg,奥格斯堡
-Berlin,0,Berlin,柏林
-Bremen,0,Bremen,布萊梅
-Cologne,0,Cologne,科隆
-Darmstadt,0,Darmstadt,达姆施塔特
-Dortmund,0,Dortmund,多特蒙德
-Frankfurt,0,Frankfurt,法兰克福
-Freiburg,0,Freiburg,弗莱堡
-Hamburg,0,Hamburg,汉堡
-Hannover,0,Hannover,汉诺威
-Heidelberg,0,Heidelberg,海德堡
-Karlsruhe,0,Karlsruhe,卡尔斯鲁厄
-Kiel,0,Kiel,基尔
-Konstanz,0,Konstanz,康士坦茲
-Landkreis Stade,0,Landkreis Stade,施塔德县
-Lubeck,0,Lubeck,呂北克
-Magdeburg,0,Magdeburg,马格德堡
-Munich,0,Munich,慕尼黑
-Nuremberg,0,Nuremberg,纽伦堡
-Rietberg,0,Rietberg,里特贝格
-Saarbruecken,0,Saarbruecken,萨尔布吕肯
-Schleswig-Holstein,0,Schleswig-Holstein,石勒苏益格-荷尔斯泰因州
-Stuttgart,0,Stuttgart,斯图加特
-Tubingen,0,Tubingen,蒂宾根
+province,key,pr,default,zh-Hans
+Augsburg,Augsburg,0,Augsburg,奥格斯堡
+Baden-Wurttemberg,Baden-Wurttemberg,1,Baden-Wurttemberg,巴登-符腾堡州
+Baden-Wurttemberg,Freiburg,0,Freiburg,弗莱堡
+Baden-Wurttemberg,Karlsruhe,0,Karlsruhe,卡尔斯鲁厄
+Baden-Wurttemberg,Stuttgart,0,Stuttgart,斯图加特
+Baden-Wurttemberg,Tubingen,0,Tubingen,蒂宾根
+Bavaria,Bavaria,1,Bavaria,巴伐利亚自由州
+Bavaria,Munich,0,Munich,慕尼黑
+Bavaria,Nuremberg,0,Nuremberg,纽伦堡
+Berlin,Berlin,0,Berlin,柏林
+Bremen,Bremen,0,Bremen,布萊梅
+Darmstadt,Darmstadt,0,Darmstadt,达姆施塔特
+Frankfurt,Frankfurt,0,Frankfurt,法兰克福
+Gutersloh,Gutersloh,1,Gutersloh,居特斯洛
+Gutersloh,Rietberg,0,Rietberg,里特贝格
+Hamburg,Hamburg,0,Hamburg,汉堡
+Heidelberg,Heidelberg,0,Heidelberg,海德堡
+Kiel,Kiel,0,Kiel,基尔
+Konstanz,Konstanz,0,Konstanz,康士坦茲
+Lower Saxony,Lower Saxony,1,Lower Saxony,下萨克森州
+Lower Saxony,Hannover,0,Hannover,汉诺威
+Lower Saxony,Landkreis Stade,0,Landkreis Stade,施塔德县
+North Rhine-Westphalia,North Rhine-Westphalia,1,North Rhine-Westphalia,北莱茵-威斯特法伦州
+North Rhine-Westphalia,Cologne,0,Cologne,科隆
+North Rhine-Westphalia,Dortmund,0,Dortmund,多特蒙德
+Saarland,Saarland,1,Saarland,萨尔兰州
+Saarland,Saarbruecken,0,Saarbruecken,萨尔布吕肯
+Saxony-Anhalt,Saxony-Anhalt,1,Saxony-Anhalt,萨克森-安哈尔特州
+Saxony-Anhalt,Magdeburg,0,Magdeburg,马格德堡
+Schleswig-Holstein,Schleswig-Holstein,1,Schleswig-Holstein,石勒苏益格-荷尔斯泰因州
+Schleswig-Holstein,Lubeck,0,Lubeck,呂北克

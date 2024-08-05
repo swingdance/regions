@@ -1,5 +1,5 @@
-key,pr,default,zh-Hans
-Basel,0,Basel,巴塞尔
-Bern,0,Bern,伯恩
-Geneva,0,Geneva,日内瓦
-Zurich,0,Zurich,苏黎世
+province,key,pr,default,zh-Hans
+Basel,Basel,0,Basel,巴塞尔
+Bern,Bern,0,Bern,伯恩
+Geneva,Geneva,0,Geneva,日内瓦
+Zurich,Zurich,0,Zurich,苏黎世

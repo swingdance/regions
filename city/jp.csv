@@ -1,8 +1,8 @@
-key,pr,default,zh-Hans
-Kanagawa,0,Kanagawa,神奈川
-Niigata,0,Niigata,新泻
-Osaka,0,Osaka,大阪
-Sapporo,0,Sapporo,札幌
-Sendai,0,Sendai,仙台
-Tokyo,0,Tokyo,东京
-Yokohama,0,Yokohama,横滨
+province,key,pr,default,zh-Hans
+Kanagawa,Kanagawa,0,Kanagawa,神奈川
+Niigata,Niigata,0,Niigata,新泻
+Osaka,Osaka,0,Osaka,大阪
+Sapporo,Sapporo,0,Sapporo,札幌
+Sendai,Sendai,0,Sendai,仙台
+Tokyo,Tokyo,0,Tokyo,东京
+Yokohama,Yokohama,0,Yokohama,横滨

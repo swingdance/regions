@@ -1,4 +1,4 @@
-key,pr,default,zh-Hans
-Amsterdam,0,Amsterdam,阿姆斯特丹
-The Hague,0,The Hague,海牙
-Utrecht,0,Utrecht,乌得勒支
+province,key,pr,default,zh-Hans
+Amsterdam,Amsterdam,0,Amsterdam,阿姆斯特丹
+The Hague,The Hague,0,The Hague,海牙
+Utrecht,Utrecht,0,Utrecht,乌得勒支

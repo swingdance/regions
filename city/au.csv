@@ -1,16 +1,16 @@
-key,pr,default,zh-Hans
-New South Wales,1,New South Wales,新南威尔斯州
-Queensland,1,Queensland,昆士兰州
-South Australia,1,South Australia,南澳州
-Tasmania,1,Tasmania,塔斯马尼亚州
-Victoria,1,Victoria,维多利亚州
-Western Australia,1,Western Australia,西澳州
-Adelaide,0,Adelaide,阿得莱德
-Brisbane,0,Brisbane,布里斯本
-Canberra,0,Canberra,坎培拉
-Gold Coast,0,Gold Coast,黃金海岸
-Hobart,0,Hobart,霍巴特
-Margaret River,0,Margaret River,玛格丽特河
-Melbourne,0,Melbourne,墨尔本
-Perth,0,Perth,珀斯
-Sydney,0,Sydney,悉尼
+province,key,pr,default,zh-Hans
+Canberra,Canberra,0,Canberra,坎培拉
+New South Wales,New South Wales,1,New South Wales,新南威尔斯州
+New South Wales,Sydney,0,Sydney,悉尼
+Queensland,Queensland,1,Queensland,昆士兰州
+Queensland,Brisbane,0,Brisbane,布里斯本
+Queensland,Gold Coast,0,Gold Coast,黃金海岸
+South Australia,South Australia,1,South Australia,南澳州
+South Australia,Adelaide,0,Adelaide,阿得莱德
+Tasmania,Tasmania,1,Tasmania,塔斯马尼亚州
+Tasmania,Hobart,0,Hobart,霍巴特
+Victoria,Victoria,1,Victoria,维多利亚州
+Victoria,Melbourne,0,Melbourne,墨尔本
+Western Australia,Western Australia,1,Western Australia,西澳州
+Western Australia,Margaret River,0,Margaret River,玛格丽特河
+Western Australia,Perth,0,Perth,珀斯

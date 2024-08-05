@@ -1,16 +1,16 @@
-key,pr,default,zh-Hans
-Barcelona,0,Barcelona,巴塞罗那
-Cadiz,0,Cadiz,卡迪斯
-Calpe,0,Calpe,卡尔佩
-Ciudad Real,0,Ciudad Real,雷阿尔城
-Gijon,0,Gijon,希洪
-Gran Canaria,0,Gran Canaria,大加那利岛
-Llafranc,0,Llafranc,雅弗郎其
-Madrid,0,Madrid,马德里
-Malaga,0,Malaga,马拉加
-Monachil,0,Monachil,莫纳奇尔
-Morella,0,Morella,莫雷利亚
-San Sebastian,0,San Sebastian,圣塞巴斯蒂安
-Sevilla,0,Sevilla,塞维利亚
-Valencia,0,Valencia,瓦伦西亚
-Vitoria,0,Vitoria,维多利亚
+province,key,pr,default,zh-Hans
+Barcelona,Barcelona,0,Barcelona,巴塞罗那
+Cadiz,Cadiz,0,Cadiz,卡迪斯
+Calpe,Calpe,0,Calpe,卡尔佩
+Ciudad Real,Ciudad Real,0,Ciudad Real,雷阿尔城
+Gijon,Gijon,0,Gijon,希洪
+Gran Canaria,Gran Canaria,0,Gran Canaria,大加那利岛
+Llafranc,Llafranc,0,Llafranc,雅弗郎其
+Madrid,Madrid,0,Madrid,马德里
+Malaga,Malaga,0,Malaga,马拉加
+Monachil,Monachil,0,Monachil,莫纳奇尔
+Morella,Morella,0,Morella,莫雷利亚
+San Sebastian,San Sebastian,0,San Sebastian,圣塞巴斯蒂安
+Sevilla,Sevilla,0,Sevilla,塞维利亚
+Valencia,Valencia,0,Valencia,瓦伦西亚
+Vitoria,Vitoria,0,Vitoria,维多利亚

@@ -1,4 +1,4 @@
-key,pr,default,zh-Hans
-Gothenburg,0,Gothenburg,哥特堡
-Lulea,0,Lulea,吕勒奥
-Stockholm,0,Stockholm,斯德哥尔摩
+province,key,pr,default,zh-Hans
+Gothenburg,Gothenburg,0,Gothenburg,哥特堡
+Lulea,Lulea,0,Lulea,吕勒奥
+Stockholm,Stockholm,0,Stockholm,斯德哥尔摩

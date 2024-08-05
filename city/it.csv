@@ -1,15 +1,15 @@
-key,pr,default,zh-Hans
-Arezzo,1,Arezzo,阿雷佐省
-Matera,1,Matera,马泰拉省
-Pistoia,1,Pistoia,皮斯托亚
-Brescia,0,Brescia,布雷西亚
-Castiglion Fiorentino,0,Castiglion Fiorentino,菲奥伦蒂诺堡
-Catania,0,Catania,卡塔尼亚
-Florence,0,Florence,佛罗伦萨
-Milan,0,Milan,米兰
-Montecatini Terme,0,Montecatini Terme,蒙特卡蒂尼-泰尔梅
-Policoro,0,Policoro,波利科罗
-Rome,0,Rome,罗马
-Silvi Marina,0,Silvi Marina,西尔维·玛丽娜
-Tramonti,0,Tramonti,特拉蒙蒂
-Turin,0,Turin,杜林
+province,key,pr,default,zh-Hans
+Arezzo,Arezzo,1,Arezzo,阿雷佐省
+Arezzo,Castiglion Fiorentino,0,Castiglion Fiorentino,菲奥伦蒂诺堡
+Brescia,Brescia,0,Brescia,布雷西亚
+Catania,Catania,0,Catania,卡塔尼亚
+Florence,Florence,0,Florence,佛罗伦萨
+Matera,Matera,1,Matera,马泰拉省
+Matera,Policoro,0,Policoro,波利科罗
+Milan,Milan,0,Milan,米兰
+Pistoia,Pistoia,1,Pistoia,皮斯托亚
+Pistoia,Montecatini Terme,0,Montecatini Terme,蒙特卡蒂尼-泰尔梅
+Rome,Rome,0,Rome,罗马
+Silvi Marina,Silvi Marina,0,Silvi Marina,西尔维·玛丽娜
+Tramonti,Tramonti,0,Tramonti,特拉蒙蒂
+Turin,Turin,0,Turin,杜林

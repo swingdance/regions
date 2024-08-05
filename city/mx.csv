@@ -1,5 +1,5 @@
-key,pr,default,zh-Hans
-Jalisco,1,Jalisco,哈利斯科州
-Cancun,0,Cancun,坎昆
-Guadalajara,0,Guadalajara,瓜达拉哈拉
-Mexico City,0,Mexico City,墨西哥城
+province,key,pr,default,zh-Hans
+Cancun,Cancun,0,Cancun,坎昆
+Jalisco,Jalisco,1,Jalisco,哈利斯科州
+Jalisco,Guadalajara,0,Guadalajara,瓜达拉哈拉
+Mexico City,Mexico City,0,Mexico City,墨西哥城
