@@ -3,10 +3,15 @@ Arizona,Arizona,1,Arizona,亚利桑那州
 Arizona,Mesa,0,Mesa,梅萨
 California,California,1,California,加利福尼亚州
 California,Los Angeles,0,Los Angeles,洛杉矶
+California,San Diego,0,San Diego,圣地亚哥
 Colorado,Colorado,1,Colorado,科罗拉多州
 Colorado,Denver,0,Denver,丹佛
 Illinois,Illinois,1,Illinois,伊利诺伊州
+Illinois,Champaign,0,Champaign,香槟
 Illinois,Chicago,0,Chicago,芝加哥
+Indiana,Indiana,1,Indiana,印第安纳州
+Indiana,Indianapolis,0,Indianapolis,印第安纳波利斯
+Indiana,West Lafayette,0,West Lafayette,西拉斐特
 Minnesota,Minnesota,1,Minnesota,明尼苏达州
 Minnesota,Minneapolis,0,Minneapolis,明尼阿波利斯
 Missouri,Missouri,1,Missouri,密苏里州
@@ -29,6 +34,8 @@ Pennsylvania,Pennsylvania,1,Pennsylvania,宾夕法尼亚州
 Pennsylvania,Philadelphia,0,Philadelphia,費城
 Texas,Texas,1,Texas,德克萨斯州
 Texas,Austin,0,Austin,奥斯汀
+Texas,Dallas,0,Dallas,达拉斯
 Texas,Houston,0,Houston,休斯顿
 Washington,Washington,1,Washington,华盛顿
 Washington,Seattle,0,Seattle,西雅图
+Washington D.C.,Washington D.C.,0,Washington D.C.,华盛顿哥伦比亚特区
